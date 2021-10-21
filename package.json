@@ -1,0 +1,20 @@
+{
+  "name": "development-log",
+  "version": "1.0.0",
+  "description": "a development log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hengqianyun/development-log.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hengqianyun/development-log/issues"
+  },
+  "homepage": "https://github.com/hengqianyun/development-log#readme"
+}
